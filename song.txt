@@ -1,3 +1,6 @@
 create new song
+<<<<<<< HEAD
 rolling stones
 NEW SONG
+=======
+>>>>>>> 960dabe20287f964cbe9cdfddccd58e9a29e3c52
